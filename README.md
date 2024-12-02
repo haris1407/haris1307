@@ -211,7 +211,7 @@ Jika pengguna memasukkan pilihan selain angka 1 hingga 5, program akan menampilk
 ### CODE PROGRAM TERSEBUT DI VISUALCODE :
 # ![tugas](https://github.com/user-attachments/assets/04a7de22-b696-4faa-a76f-c6e53ee7f1f5)
 ### Berikut Adalah Hasil Dari Code Di Atas :
-# ![WhatsApp Image 2024-12-02 at 06 47 36_71ab9820](https://github.com/user-attachments/assets/1a5f33da-d67d-48f3-9607-1ff67d6ca98a)
+#![Cuplikan layar 2024-12-02 232445](https://github.com/user-attachments/assets/e9b03eaa-bb4b-4fcc-8b4e-ef488ec8c2be)
 
 ### DI BAWAH INI ADALAH FLOWCHARTNYA : 
 # ![flowchart_mahasiswa](https://github.com/user-attachments/assets/35fa66d2-09b1-4d58-950c-c4daba6959df)
