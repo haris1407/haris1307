@@ -22,7 +22,7 @@ print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
 print("lambda d('hello Haris'):", d("Haris"))
 ```
 ### Code Program Tersebut :
-# ![latihan1](https://github.com/user-attachments/assets/da267cc8-0fbe-4e08-b347-8264e1fcc93d)
+# ![Cuplikan layar 2024-12-02 230807](https://github.com/user-attachments/assets/62823bed-3545-4181-8b9c-19f82228bedb)
 ### Hasil Dari Program Tersebut :
 # ![Cuplikan layar 2024-12-02 231324](https://github.com/user-attachments/assets/7cf1086b-cf84-4429-a892-00b56283da49)
 # Tugas Pratikum 
